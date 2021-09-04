@@ -1,6 +1,6 @@
 # supportUrl
 
-This page is dedicated to Mathsaurus app help. If you have any question please contact us at the following
+This page is dedicated to MathGurus app help. If you have any question please contact us at the following
 
 
 email:-  abbassiasnotes@gmail.com
